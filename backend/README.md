@@ -6,13 +6,14 @@ Installation:
 1. Clone this Repository
 
     git clone https://github.com/mukundsoni07/HumanChainAISafetyLogApi.git
+
     cd yourproject
 
-2. Install dependencies
+3. Install dependencies
 
     npm install
 
-3. Database Setup
+4. Database Setup
 
     i. Create MongoDB Atlas Account
     ii. Create a project
@@ -21,7 +22,7 @@ Installation:
     v. Allow Network access
     vi. Get your Connection URI
 
-4. Setup Environment variables
+5. Setup Environment variables
 
 Create a .env file in the root of the project with the following:
  
