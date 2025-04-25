@@ -5,7 +5,7 @@ It is made in Node JS, Express JS and it Uses MongoDB atlas for Database service
 Installation: 
 1. Clone this Repository
 
-    git clone https://github.com/yourusername/yourproject.git
+    git clone https://github.com/mukundsoni07/HumanChainAISafetyLogApi.git
     cd yourproject
 
 2. Install dependencies
