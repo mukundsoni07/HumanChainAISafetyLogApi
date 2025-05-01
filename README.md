@@ -8,6 +8,7 @@ Installation:
     git clone https://github.com/mukundsoni07/HumanChainAISafetyLogApi.git
 
     cd your_project
+   
     cd backend
 
 3. Install dependencies
@@ -28,6 +29,7 @@ Installation:
 Create a .env file in the root of the project with the following:
  
  PORT=8080
+ 
  MONGO_URI=your_database_url
 
 Running the Project Locally
