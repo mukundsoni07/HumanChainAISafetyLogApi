@@ -7,7 +7,8 @@ Installation:
 
     git clone https://github.com/mukundsoni07/HumanChainAISafetyLogApi.git
 
-    cd yourproject
+    cd your_project
+    cd backend
 
 3. Install dependencies
 
